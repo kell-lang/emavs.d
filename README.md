@@ -1,3 +1,2 @@
 # emavs.d
-This is a description.
-this is a test 
+This is a test repository for kiteAb's video.
